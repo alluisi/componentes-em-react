@@ -1,5 +1,5 @@
-import Item from './components/item/index';
-import Card from './components/Card/index';
+import Item from './components/item';
+import Card from './components/Card';
 
 const App = () => {
   return (
